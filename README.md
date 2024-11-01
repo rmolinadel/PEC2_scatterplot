@@ -1,5 +1,5 @@
 # PEC2_scatterplot
-Se adjunta la visualización de la técnica de Scatterplot en la aplicación de GitHub
+Se adjunta la visualización de la técnica de Scatterplot y la aplicación de excel que se ha utilizado para su elaboración. 
 
 ## Páginas web consultadas
 https://www.youtube.com/watch?v=xhevi9FRRhQ
