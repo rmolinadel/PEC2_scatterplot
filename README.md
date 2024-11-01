@@ -8,6 +8,4 @@ https://www.jmp.com/es_es/statistics-knowledge-portal/exploratory-data-analysis/
 
 https://prezi.com/_1fl8w7_zbbh/diagrama-de-dispersion/
 
-https://es.weatherspark.com/m/47165/10/Tiempo-promedio-en-octubre-en-Lloret-de-Mar-Espa%C3%B1a
-
-https://www.accuweather.com/es/es/lloret-de-mar/304432/october-weather/304432
+https://www.meteoblue.com/es/tiempo/historyclimate/weatherarchive/lloret-de-mar_espa%C3%B1a_3118212?fcstlength=1m&year=2024&month=10
