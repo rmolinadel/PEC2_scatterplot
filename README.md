@@ -1,2 +1,2 @@
 # PEC2_scatterplot
-Visualización de Scatterplot en la aplicación de GitHub
+Se adjunta la visualización de la técnica de Scatterplot en la aplicación de GitHub
